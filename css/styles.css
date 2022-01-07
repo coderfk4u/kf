@@ -1,0 +1,89 @@
+body{background-color: #D6E5FA;}
+
+.dotted{background-color: #D6E5FA;
+  color: black;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 10px;}
+
+  p{font-size: 20px;}
+
+.top-container{
+  width: 50%;
+text-align: center;
+margin: auto;}
+
+h1{font-size: 50px;
+font-family: 'Dancing Script',cursive;
+text-align: center;
+color: black;}
+
+h2{color: black;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: normal;
+  line-height: 2;}
+
+.topcloud{position: relative;left: 200px;
+margin-bottom: -40px;}
+
+.code{width: 50%;text-align: center;}
+
+.bottomcloud{position: absolute;right:  900px;
+margin-top: 200px;}
+
+hr{width: 100%;
+color: white;}
+
+.middle-container{
+  line-height: 1;
+  width: 50%;
+margin: auto;}
+
+.bottom-container{
+  width: 70%;
+margin: auto;}
+
+.computer{width: 25%;
+  margin-top: 130px;
+  margin-right: 20px;
+  float: left;
+text-align: left;}
+
+.html{width: 25%;
+text-align: right;
+margin-top: 0;
+float: right;}
+
+.css{width: 25%;
+  margin-top: 25px;
+text-align: left;
+float: left;}
+
+.js{width: 25%;
+text-align: right;
+margin-top: 0;
+float: right;}
+
+.node{width: 25%;
+margin-top: 50px;}
+
+.python{width: 25%;
+margin-left: 10px;}
+
+.sql{width: 25%;
+margin-right:100px;
+margin-left: 10px;}
+
+.links{text-align: center;
+  font-size: 30px;
+  font-family:sans-serif;
+}
+
+.contact-me{text-align: center;
+  font-family: cursive;
+font-size: 30px;
+color: white;
+}
+
+footer-link{margin-right: 20px;}
